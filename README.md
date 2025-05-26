@@ -1,4 +1,4 @@
-# 🧠 Brain Tumor Detection using VGG16 (Transfer Learning)
+# 🧠 Brain Tumor Detection using VGG16 
 
 ![Brain MRI](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Meningioma_MRI.jpg/640px-Meningioma_MRI.jpg)
 
